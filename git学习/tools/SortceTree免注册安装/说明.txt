@@ -1,0 +1,4 @@
+1、先关闭注册页面
+2、CMD打开%LocalAppData%\Atlassian\SourceTree\
+3、复制文件accounts.json到当前路径
+4、打开SourceTree即可
